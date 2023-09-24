@@ -11,3 +11,5 @@ tanaka = UserName(name="tanaka")
 #print(tanaka.name)
 print(tanaka.screen_name())
 
+#完成
+
